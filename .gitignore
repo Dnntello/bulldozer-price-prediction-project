@@ -9,8 +9,6 @@ __pycache__/
 venv/
 .env
 
-# Data files (optional, remove if you want to upload data)
-data/
 
 # OS files
 .DS_Store
